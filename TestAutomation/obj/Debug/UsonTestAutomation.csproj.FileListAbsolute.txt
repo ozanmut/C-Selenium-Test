@@ -1,0 +1,16 @@
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\bin\Debug\UsonTestAutomation.exe.config
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\bin\Debug\UsonTestAutomation.exe
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\bin\Debug\UsonTestAutomation.pdb
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\bin\Debug\Microsoft.Web.Administration.dll
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\obj\Debug\UsonTestAutomation.csprojAssemblyReference.cache
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\obj\Debug\UsonTestAutomation.Form1.resources
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\obj\Debug\UsonTestAutomation.Properties.Resources.resources
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\obj\Debug\UsonTestAutomation.csproj.GenerateResource.cache
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\obj\Debug\UsonTestAutomation.csproj.CoreCompileInputs.cache
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\obj\Debug\UsonTestAutomation.csproj.CopyComplete
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\obj\Debug\UsonTestAutomation.exe
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\obj\Debug\UsonTestAutomation.pdb
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\bin\Debug\WebDriver.dll
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\bin\Debug\WebDriver.Support.dll
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\bin\Debug\WebDriver.xml
+C:\workspace\UsonTestAutomation\UsonTestAutomation\UsonTestAutomation\bin\Debug\WebDriver.Support.xml
